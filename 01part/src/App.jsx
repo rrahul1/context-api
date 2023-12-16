@@ -7,7 +7,7 @@ import Profile from "./components/Profile";
 function App() {
   return (
     <UserContextProvider>
-      <h1>Theme Toggle</h1>
+      <h1>Login</h1>
       <Login />
       <Profile />
     </UserContextProvider>
